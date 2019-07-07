@@ -24,28 +24,38 @@ Our Idea:
 
 
 
-
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 
-![Homepage](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-38-18.png)
-
-
-
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-
-![Homepage2](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-17-21.png)
-
-
-
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+#Login Page#
 
 ![Login](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-51-16.png)
 
 
 
+
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 
+#Signup Page#
 ![Signup](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-51-23.png)
+
+
+
+
+
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+
+#Home Page#
+![Homepage](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-38-18.png)
+
+
+
+
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+#Home Page#
+![Homepage2](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-17-21.png)
+
+
+
 
 
 
