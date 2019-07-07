@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ultra_poor_grads.urls'
+ROOT_URLCONF = 'ultra_poor_grad.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'gentelella.wsgi.application'
+WSGI_APPLICATION = 'ultra_poor_grad.wsgi.application'
 
 
 # Database
