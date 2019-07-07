@@ -1,12 +1,12 @@
-Bracathon
+# Bracathon #
 
-CHALLENGE 4: ANALYSING DATA AND VISUAL TRENDS FROM THE FIELD
+#### CHALLENGE 4: ANALYSING DATA AND VISUAL TRENDS FROM THE FIELD ####
 
-Our Vision:
+#### Our Vision: ####
      Creating a centralized data accumulation and analysis system to digitalize and accelerate the MIS data process.
 
 
-Our Idea: 
+#### Our Idea: ####
 1. Dynamic digital template generation with audio, video and image capture with caching ability
 	- Different programme needs different type of data query, so we will make a drag and drop template generation which will allow the executive committee generate specific template for a task
 	- Inclusion of audio, video and image data collected from field survey, will make data accumulation more accurate and impactful.
@@ -26,7 +26,7 @@ Our Idea:
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 
-# Login Page #
+#### Login Page ####
 
 ![Login](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-51-16.png)
 
@@ -35,7 +35,7 @@ Our Idea:
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 
-# Signup Page #
+#### Signup Page ####
 
 ![Signup](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-51-23.png)
 
@@ -45,7 +45,7 @@ Our Idea:
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 
-# Home Page #
+#### Home Page ####
 
 ![Homepage](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-38-18.png)
 
@@ -55,7 +55,7 @@ Our Idea:
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 
-# Home Page #
+#### Home Page ####
 
 ![Homepage2](https://github.com/snat1505027/Bracathon/blob/master/Demo/Screenshot%20from%202019-07-07%2006-17-21.png)
 
